@@ -1,1 +1,1 @@
-# AJCAI-eGBDT code and data sets
+# AJCAI2020 code and data sets
